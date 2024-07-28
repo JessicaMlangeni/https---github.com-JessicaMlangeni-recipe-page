@@ -1,0 +1,50 @@
+
+#keke {
+    width: 25%;
+    height:25% ;
+    float:left;
+    margin-right: 2%;
+}
+#tablerow{
+    background-color: orangered;
+ }
+.tabledata{
+    background-color: bisque;
+}
+#sai{
+    float:right;
+    width: 25%;
+    height: 10%;
+    border-radius: 70%;
+    margin-right: 10%;
+    margin-bottom: 25%;
+}
+h2{
+    color: darkorange;
+    .elsie-regular {
+        font-family: "Elsie", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .elsie-black {
+        font-family: "Elsie", serif;
+        font-weight: 900;
+        font-style: normal;
+      }}
+   #bodie{ 
+    background-color: blanchedalmond;
+   }   
+
+#sam{
+    color: antiquewhite;
+    width: 2;
+    height: 1;
+}
+
+
+
+
+
+
+
