@@ -50,11 +50,20 @@ h2{
 .butn:hover {
     box-shadow: 3px 3px white,6px 6px 0 0 black;
     transform: translate(-2px,-2px);
-    ;
+}
+@media (min-width:600px){
+    p{
+        font-size: 1.25rem;
+    }
 }
 
+@media(min-width: 800px){
+    p{
+        font-size: 1.5rem;
+        line-height:1.5;
 
-
+    }
+}
 
 
 
